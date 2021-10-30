@@ -7,4 +7,5 @@ print("asfasf   ")
 """
 print("asfasf")
 
+
 num1 = int(input('enter number: '))
